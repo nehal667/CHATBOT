@@ -1,2 +1,2 @@
 # CHATBOT
-This project demonstrates the integration of text-based search algorithms with a user-friendly interface, making it an efficient tool for information retrieval and automated conversation.
+Developed a chatbot that interacts with users by asking questions and retrieving the most relevant answers from a text file based on similarity matching. The bot uses natural language processing techniques to analyze user input and searches for the closest matching responses, providing accurate and contextually relevant answers. This project demonstrates the integration of text-based search algorithms with a user-friendly interface, making it an efficient tool for information retrieval and automated conversation.
